@@ -1,4 +1,4 @@
-import streamlit as st
+4import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -11,8 +11,6 @@ from config import UIConfig
 # Set application layout parameters
 st.set_page_config(page_title="EnerVision AI - Energy Intelligence Platform", layout="wide", initial_sidebar_state="expanded")
 UIConfig.inject_theme()
-
-# Initialization of persistent state arrays
 if 'data_loaded' not in st.session_state:
     st.session_state.data_loaded = False
     st.session_state.raw_df = None
