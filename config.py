@@ -11,11 +11,11 @@ class UIConfig:
     TEXT_MUTED = "#94A3B8"     # Soft Slate Grey (Secondary info)
     
     # --- Brand Accents (Vibrant) ---
-    ACCENT_GREEN = "#10B981"   # Success/Positive
-    ACCENT_BLUE = "#3B82F6"    # Primary Action
-    ACCENT_PURPLE = "#8B5CF6"  # Secondary Analytics
-    ACCENT_ORANGE = "#F59E0B"  # Warnings/Alerts
-    ACCENT_RED = "#EF4444"     # Negative/High Consumption
+    ACCENT_GREEN = "#10B981"   
+    ACCENT_BLUE = "#3B82F6"   
+    ACCENT_PURPLE = "#8B5CF6"  
+    ACCENT_ORANGE = "#F59E0B"
+    ACCENT_RED = "#EF4444"     
     
     @staticmethod
     def inject_theme():
