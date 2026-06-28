@@ -1,3 +1,4 @@
+# ⚡ Energy Consumption Forecasting
 # ⚡ EnerVision AI — Energy Intelligence Platform
 
 > **A data-driven Streamlit application for energy consumption analysis, predictive forecasting, and actionable sustainability optimization across residential and commercial facilities.**
